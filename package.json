@@ -1,0 +1,29 @@
+{
+  "name": "placecage",
+  "version": "0.1.2",
+  "description": "Downloads placecage.com images to your machine",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "placecage": "./bin/placecage-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsananderson/placecage-node.git"
+  },
+  "keywords": [
+    "placecage",
+    "cli"
+  ],
+  "author": "Will Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsananderson/placecage-node/issues"
+  },
+  "homepage": "https://github.com/itsananderson/placecage-node",
+  "dependencies": {
+    "commander": "^2.2.0",
+    "placekitten": "^0.3.0"
+  }
+}
