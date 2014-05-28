@@ -24,6 +24,6 @@
   "homepage": "https://github.com/itsananderson/placecage-node",
   "dependencies": {
     "commander": "^2.2.0",
-    "placekitten": "^0.3.0"
+    "placebase": "^0.1.1"
   }
 }
