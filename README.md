@@ -12,12 +12,6 @@ Installing is quite simple
 npm install -g placecage
 ```
 
-If you want to reuse the file fetching logic, you can also install placecage as a dependency of your own module
-
-```
-npm install --save placecage
-```
-
 Usage
 -----
 
